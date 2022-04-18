@@ -1,9 +1,15 @@
 <script setup>
-import ButtonRepo from '@/components/ButtonRepo.vue'
+
+
+import ButtonRepo from "@/components/ButtonRepo.vue";
+import HeroSection from "@/components/HeroSection.vue";
+
+
 </script>
 
 <template>
-  <div class="bg-gray-50">
+<HeroSection></HeroSection>
+<!--  <div class="bg-gray-50">
     <div
       class="max-w-screen-xl px-4 py-12 mx-auto sm:px-6 lg:py-16 lg:px-8 lg:flex lg:items-center lg:justify-between"
     >
@@ -25,5 +31,5 @@ import ButtonRepo from '@/components/ButtonRepo.vue'
         <ButtonRepo />
       </div>
     </div>
-  </div>
+  </div>-->
 </template>

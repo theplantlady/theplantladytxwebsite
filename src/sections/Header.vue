@@ -4,7 +4,7 @@
       <div>
         <div class="lg:absolute lg:pt-12 right-0 top-0 lg:w-7/12">
           <div class="hidden lg:block h-8 w-8 h-24 w-24 border-2 bg-img-border-color inset-0 absolute -ml-10 z-0 "></div>
-          <img src="https://images.unsplash.com/photo-1618220179428-22790b461013?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=940&h=806&q=80" alt="" class="w-full relative z-10 " />
+          <img src="./assets/image-from-rawpixel-id-6115809-jpeg.jpg" alt="" class="w-full relative z-10 " />
           <button  @click="scrollPageTo('element')" class="hidden absolute z-20 right-0 bottom-0 bg-plant-leaf -mb-10 mr-12 h-24 w-24 lg:flex items-center justify-center cursor-pointer">
             <svg xmlns="http://www.w3.org/2000/svg" width="48" height="49" viewBox="0 0 48 49" fill="none">
               <path d="M24 10.9639V38.9639" stroke="white" stroke-width="3.75" stroke-linecap="round" stroke-linejoin="round" />

@@ -2,8 +2,8 @@
 <template>
   <div class="relative bg-white overflow-hidden">
     <div class="lg:absolute lg:inset-y-0 lg:right-0 lg:w-1/2">
-      <img class="h-56 w-full object-cover sm:h-72 md:h-96 lg:w-full lg:h-full" src="https://images.unsplash.com/photo-1618220179428-22790b461013?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2850&q=80" alt="" />
-
+      <img class="h-56 w-full object-cover sm:h-72 md:h-96 lg:w-full lg:h-full" src="https://firebasestorage.googleapis.com/v0/b/theplantladytx.appspot.com/o/image-from-rawpixel-id-3391891-jpeg.jpg?alt=media&token=96dcf2ba-8d78-44b0-a454-c3c4b572d135" alt="" />
+<!--      <img class="h-56 w-full object-cover sm:h-72 md:h-96 lg:w-full lg:h-full" src="https://firebasestorage.googleapis.com/v0/b/theplantladytx.appspot.com/o/image-from-rawpixel-id-1211481-jpeg.jpg?alt=media&token=6d70e69c-a1e7-4e49-af97-b78b5e47bb71" alt="" />-->
     </div>
     <div class="max-w-7xl mx-auto">
       <div class="relative z-10 pb-8 bg-white sm:pb-16 md:pb-20 lg:max-w-xl xl:max-w-2xl lg:w-full lg:pb-28 xl:pb-32">

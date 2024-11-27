@@ -9,6 +9,12 @@
 @import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap");
 
+/* Import Vue Flow Form base CSS */
+/*@import url("https://unpkg.com/@ditdot-dev/vue-flow-form@2.2.1/dist/vue-flow-form.min.css");*/
+@import 'flowform.css';
+@import url("https://unpkg.com/@ditdot-dev/vue-flow-form@2.2.1/dist/vue-flow-form.theme-minimal.min.css");
+<!-- Flow Form base CSS -->
+
 .f-f-l {
     font-family: "Roboto", sans-serif;
 }

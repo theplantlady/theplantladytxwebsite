@@ -66,7 +66,7 @@
               </dd>
               <dt><span class="sr-only">Email</span></dt>
               <dd class="flex text-base text-indigo-50">
-                <MailIcon class="flex-shrink-0 w-6 h-6 text-indigo-200" aria-hidden="true" />
+                <EnvelopeIcon class="flex-shrink-0 w-6 h-6 text-indigo-200" aria-hidden="true" />
                 <span class="ml-3">support@workcation.com</span>
               </dd>
             </dl>
@@ -156,11 +156,12 @@
 </template>
 
 <script>
-import { MailIcon, PhoneIcon } from '@heroicons/vue/outline'
+
+import {EnvelopeIcon, PhoneIcon } from '@heroicons/vue/24/outline'
 
 export default {
   components: {
-    MailIcon,
+    EnvelopeIcon,
     PhoneIcon,
   },
 }

@@ -60,7 +60,7 @@ import ThreePlaceholdersWithDescription from "@/components/ThreePlaceholdersWith
 import SimpleThreeColWithEmail from "@/components/SimpleThreeColWithEmail.vue";
 import SimpleTextWithinSquare from "@/components/SimpleTextWithinSquare.vue";
 import ElegantWithDarkGrayCard from "@/components/ElegantWithDarkGrayCard.vue";
-import HeroSection from "@/components/HeroSection.vue";
+import HeroSection from "@/components/Home/HeroSection.vue";
 import ThreeCardsServices from "@/components/ThreeCardsServices.vue";
 import ThreeByThreeCards from "@/components/ThreeByThreeCards.vue";
 import WhoWeAre from "@/components/WhoWeAre.vue";
